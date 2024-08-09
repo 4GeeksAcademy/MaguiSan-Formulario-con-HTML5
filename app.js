@@ -12,3 +12,5 @@ let inputs = document.querySelectorAll('#form input');
 form.addEventListener('submit', (e)=>{
   e.preventDefault();
 });
+
+// terminar terminar :(
